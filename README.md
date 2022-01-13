@@ -1,4 +1,11 @@
-### Hi there 👋
+
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilismarque&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!--
 **ilismarque/ilismarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
