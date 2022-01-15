@@ -4,27 +4,27 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilismarque&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2022
+> 🏆 45 Contributions in the Year 2022
  > 
 > 📦 75.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    76 commits     █████████░░░░░░░░░░░░░░░░   36.19% 
-🌆 Daytime    107 commits    ████████████░░░░░░░░░░░░░   50.95% 
+🌞 Morning    77 commits     █████████░░░░░░░░░░░░░░░░   36.67% 
+🌆 Daytime    106 commits    ████████████░░░░░░░░░░░░░   50.48% 
 🌃 Evening    26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
 
@@ -32,11 +32,11 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       44 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   20.48% 
 Tuesday      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.62% 
-Wednesday    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
+Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
 Thursday     63 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Friday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Friday       31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
 Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
 Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
 
@@ -75,7 +75,7 @@ CSS                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2022
+ Last Updated on 15/01/2022
 <!--END_SECTION:waka-->
 
 <!--
