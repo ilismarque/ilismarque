@@ -4,15 +4,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilismarque&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 335 Contributions in the Year 2022
+> 🏆 345 Contributions in the Year 2022
  > 
 > 📦 72.6 kB Used in GitHub's Storage 
  > 
@@ -20,27 +20,27 @@
  > 
 > 📜 4 Public Repositories 
  > 
-> 🔑 16 Private Repositories  
+> 🔑 17 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    109 commits    ███████████░░░░░░░░░░░░░░   43.6% 
-🌆 Daytime    97 commits     █████████░░░░░░░░░░░░░░░░   38.8% 
-🌃 Evening    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
+🌞 Morning    117 commits    ███████████░░░░░░░░░░░░░░   45.35% 
+🌆 Daytime    97 commits     █████████░░░░░░░░░░░░░░░░   37.6% 
+🌃 Evening    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Tuesday      39 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Wednesday    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
-Thursday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.8% 
-Friday       61 commits     ██████░░░░░░░░░░░░░░░░░░░   24.4% 
-Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+Monday       40 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
+Tuesday      39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
+Wednesday    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
+Thursday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   22.09% 
+Friday       69 commits     ██████░░░░░░░░░░░░░░░░░░░   26.74% 
+Saturday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
 
 ```
 
@@ -79,7 +79,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 12:57:34 UTC
+ Last Updated on 14/05/2022 02:03:04 UTC
 <!--END_SECTION:waka-->
 
 <!--
