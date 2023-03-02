@@ -24,4 +24,4 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 2
-          LOCALE: "pt_BR"
+          #LOCALE: "pt_BR"
